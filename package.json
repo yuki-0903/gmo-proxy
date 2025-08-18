@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "GMO為替データAPIのプロキシサーバー",
   "main": "dist/index.js",
-  "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc",
     "start": "node dist/index.js",
     "lint": "eslint src --ext .ts,.tsx",
     "typecheck": "tsc --noEmit"
