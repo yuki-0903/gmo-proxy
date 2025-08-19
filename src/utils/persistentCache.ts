@@ -11,7 +11,7 @@ interface PersistentCacheEntry<T> {
 export class PersistentCache {
   private cacheDir: string;
 
-  constructor(cacheDir: string = './cache') {
+  constructor(cacheDir: string = process.env.NODE_ENV === 'production' ? '/tmp/cache' : './cache') {
     this.cacheDir = cacheDir;
     this.ensureCacheDir();
   }
