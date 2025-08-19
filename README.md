@@ -20,7 +20,7 @@ https://gmo-proxy.vercel.app
 
 #### K線データのクエリパラメータ
 ```
-GET /api/v1/klines?symbol=USD_JPY&priceType=ASK&interval=1min&date=20231028
+GET /api/v1/klines?symbol=USD_JPY&priceType=ASK&interval=1min&date=20241028
 ```
 
 | パラメータ | 型 | 必須 | 説明 | 利用可能な値 |

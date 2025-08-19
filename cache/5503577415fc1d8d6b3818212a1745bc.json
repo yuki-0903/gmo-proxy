@@ -1,0 +1,108 @@
+{
+  "data": {
+    "status": 0,
+    "data": [
+      {
+        "symbol": "USD_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "EUR_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "GBP_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "AUD_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "NZD_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "CAD_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "CHF_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "EUR_USD",
+        "tickSize": "0.00001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "TRY_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100000",
+        "maxOrderSize": "500000",
+        "sizeStep": "10"
+      },
+      {
+        "symbol": "ZAR_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100000",
+        "maxOrderSize": "500000",
+        "sizeStep": "10"
+      },
+      {
+        "symbol": "MXN_JPY",
+        "tickSize": "0.001",
+        "minOpenOrderSize": "100000",
+        "maxOrderSize": "500000",
+        "sizeStep": "10"
+      },
+      {
+        "symbol": "GBP_USD",
+        "tickSize": "0.00001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "AUD_USD",
+        "tickSize": "0.00001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      },
+      {
+        "symbol": "NZD_USD",
+        "tickSize": "0.00001",
+        "minOpenOrderSize": "100",
+        "maxOrderSize": "500000",
+        "sizeStep": "1"
+      }
+    ],
+    "responsetime": "2025-08-19T17:08:50.116Z"
+  },
+  "timestamp": 1755623330121,
+  "key": "symbols"
+}
